@@ -1,3 +1,4 @@
+package ru.netology.statistic;
 public class Post {
     public FormDate birthday;
     public String name;
